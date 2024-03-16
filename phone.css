@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;
+}
+
+#panel2 button{
+    flex-direction: column;
+}
+#section2{
+    flex-direction: column;
+}
+.div1{
+    flex-wrap: wrap;
+}
+
+#footer1{
+    flex-direction: column;
+    
+}
